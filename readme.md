@@ -17,3 +17,4 @@ Otherwise the request may be declined until you update the list.
 | MangaParkOrg          | 10.10.2024 | 96954    |
 | MangaParkTo           | 10.10.2024 | 96954    |
 | MangaReaderSite       | 11.10.2024 | 5014     |
+| WeebCentral           | 11.10.2024 | 8368     |
