@@ -6,6 +6,7 @@ Otherwise the request may be declined until you update the list.
 |:----------------------|:--------------------------------:|:----------:|:--------:|
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 10.10.2024 | 1649     |
 | IMHentai              | 67e22e0c766c4c9c990e179350262b3c | 13.10.2024 | 311758   |
+| ManhuaManhwa          | 397614b7e4ec4a67b455f5b2d2cd94ab | 15.10.2024 | 7730     |
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 10.10.2024 | 96817    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
 | MangaHereOnl          | 5000c9841e5c4cc69bdbca334ee5f440 | 11.10.2024 | 22232    |
