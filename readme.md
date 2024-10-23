@@ -5,6 +5,7 @@ Otherwise the request may be declined until you update the list.
 | Website               | ID                               | Updated    | # Manga  |
 |:----------------------|:--------------------------------:|:----------:|:--------:|
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 10.10.2024 | 1649     |
+| HentaiSlayer          | 9c9cde03be7d4e1d9b7241254e89f343 | 23.10.2024 | 3101     |
 | IMHentai              | 67e22e0c766c4c9c990e179350262b3c | 13.10.2024 | 1064634  |
 | LelscanFR             | 358a61da48924114b62167af95772e03 | 23.10.2024 | 203      |
 | ManhuaManhwa          | 397614b7e4ec4a67b455f5b2d2cd94ab | 15.10.2024 | 7730     |
