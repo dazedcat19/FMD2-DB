@@ -4,6 +4,7 @@ Otherwise the request may be declined until you update the list.
   
 | Website               | ID                               | Updated    | # Manga  |
 |:----------------------|:--------------------------------:|:----------:|:--------:|
+| Azora Manga           | 27c2c6db9ce24942a89a28aa6c6ed35d | 26.10.2024 | 234      |
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 10.10.2024 | 1649     |
 | HentaiSlayer          | 9c9cde03be7d4e1d9b7241254e89f343 | 23.10.2024 | 3101     |
 | IMHentai              | 67e22e0c766c4c9c990e179350262b3c | 13.10.2024 | 1064634  |
