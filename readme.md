@@ -10,6 +10,8 @@ Otherwise the request may be declined until you update the list.
 | IMHentai              | 67e22e0c766c4c9c990e179350262b3c | 13.10.2024 | 1064634  |
 | LelscanFR             | 358a61da48924114b62167af95772e03 | 23.10.2024 | 203      |
 | ManhuaManhwa          | 397614b7e4ec4a67b455f5b2d2cd94ab | 15.10.2024 | 7730     |
+| Manhwa18              | 794187d0e92e4933bf63812438d69017 | 11.11.2024 | 1623     |
+| Manhwa18Net           | 9b325c488f6f443281b39315d6fa72d0 | 11.11.2024 | 1627     |
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 10.10.2024 | 96817    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
 | MangaHereOnl          | 5000c9841e5c4cc69bdbca334ee5f440 | 11.10.2024 | 22232    |
