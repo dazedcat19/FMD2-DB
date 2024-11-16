@@ -35,9 +35,11 @@ Otherwise the request may be declined until you update the list.
 | MangaReaderSite       | e470dc46f8eb4ac0aa1c9e401969c1f3 | 11.10.2024 | 5014     |
 | Necro Scans           | 6cdcae30ce834d868280d831202b5d3d | 12.11.2024 | 60       |
 | NHentai               | f8d26ca921af4876b7ba84bd7e06fe82 | 12.10.2024 | 508484   |
+| Pururin               | 18470a3b19034f3f91289c2b8b7d3ab3 | 16.11.2024 | 42745    |
 | Reaper Scans FR       | f8f3f54f2f3a47d999dbc75109287030 | 12.11.2024 | 84       |
 | Rezo Scans            | 4858ca8d788c4d229a1f996933aa8329 | 12.11.2024 | 32       |
 | Scylla Comics         | de31032e312a433c9df21a6e9be20872 | 23.10.2024 | 77       |
 | Starbound Scans       | f05e9899ef29499f91ce01857c92d0ea | 12.11.2024 | 58       |
+| Temple Scan           | df435a30cf8a44cb8e684e99d1b84b5d | 13.11.2024 | 122      |
 | WeebCentral           | abbde9b6468f45939e5603416d73ac47 | 11.10.2024 | 8368     |
 | Wicked Scans          | e385fdad588f40ba84fa77c76eb9d03e | 12.11.2024 | 27       |
