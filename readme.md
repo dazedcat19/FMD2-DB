@@ -8,6 +8,7 @@ Otherwise the request may be declined until you update the list.
 | AGR Comics            | 50868d7d8eaf4b8d948efa7333ed2989 | 12.11.2024 | 64       |
 | Anteiku Scans         | 3cb3b49b01d24297bc4110ef0fc21b5f | 12.11.2024 | 48       |
 | Arven Scans           | 472b381dbdf44438b90ee93e0caeccf9 | 12.11.2024 | 88       |
+| AsuraScans            | 7103ae6839ea46ec80cdfc2c4b37c803 | 21.11.2024 | 242      |
 | Azora Manga           | 27c2c6db9ce24942a89a28aa6c6ed35d | 26.10.2024 | 234      |
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 10.10.2024 | 1649     |
 | EZmanga               | fa1046d51d29499d8e8b812a80e97fe4 | 12.11.2024 | 104      |
