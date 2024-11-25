@@ -23,6 +23,7 @@ Otherwise the request may be declined until you update the list.
 | Manhwa18              | 794187d0e92e4933bf63812438d69017 | 11.11.2024 | 1623     |
 | Manhwa18Net           | 9b325c488f6f443281b39315d6fa72d0 | 11.11.2024 | 1627     |
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 10.10.2024 | 96817    |
+| MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 25.11.2024 | 44955    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
 | MangaHereOnl          | 5000c9841e5c4cc69bdbca334ee5f440 | 11.10.2024 | 22232    |
 | MangaHubIo            | a4f873c854b248769284896607dfb4dd | 11.10.2024 | 59628    |
