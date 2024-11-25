@@ -12,6 +12,7 @@ Otherwise the request may be declined until you update the list.
 | Azora Manga           | 27c2c6db9ce24942a89a28aa6c6ed35d | 26.10.2024 | 234      |
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 10.10.2024 | 1649     |
 | EZmanga               | fa1046d51d29499d8e8b812a80e97fe4 | 12.11.2024 | 104      |
+| FanFox                | 0d3653a8d9b747a381374f32e0a1641e | 24.11.2024 | 30050    |
 | Genz Toons            | ef9347dbab424553b9909332c8739f32 | 12.11.2024 | 81       |
 | HentaiSlayer          | 9c9cde03be7d4e1d9b7241254e89f343 | 23.10.2024 | 3101     |
 | IMHentai              | 67e22e0c766c4c9c990e179350262b3c | 13.10.2024 | 1064634  |
@@ -22,7 +23,7 @@ Otherwise the request may be declined until you update the list.
 | ManhuaManhwa          | 397614b7e4ec4a67b455f5b2d2cd94ab | 15.10.2024 | 7730     |
 | Manhwa18              | 794187d0e92e4933bf63812438d69017 | 11.11.2024 | 1623     |
 | Manhwa18Net           | 9b325c488f6f443281b39315d6fa72d0 | 11.11.2024 | 1627     |
-| MangaDex              | d07c9c2425764da8ba056505f57cf40c | 10.10.2024 | 96817    |
+| MangaDex              | d07c9c2425764da8ba056505f57cf40c | 24.11.2024 | 98303    |
 | MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 25.11.2024 | 44968    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
 | MangaHereOnl          | 5000c9841e5c4cc69bdbca334ee5f440 | 11.10.2024 | 22232    |
@@ -43,5 +44,5 @@ Otherwise the request may be declined until you update the list.
 | Scylla Comics         | de31032e312a433c9df21a6e9be20872 | 23.10.2024 | 77       |
 | Starbound Scans       | f05e9899ef29499f91ce01857c92d0ea | 12.11.2024 | 58       |
 | Temple Scan           | df435a30cf8a44cb8e684e99d1b84b5d | 13.11.2024 | 122      |
-| WeebCentral           | abbde9b6468f45939e5603416d73ac47 | 11.10.2024 | 8368     |
+| WeebCentral           | abbde9b6468f45939e5603416d73ac47 | 24.11.2024 | 8468     |
 | Wicked Scans          | e385fdad588f40ba84fa77c76eb9d03e | 12.11.2024 | 27       |
