@@ -13,18 +13,20 @@ Otherwise the request may be declined until you update the list.
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 10.10.2024 | 1649     |
 | EZmanga               | fa1046d51d29499d8e8b812a80e97fe4 | 12.11.2024 | 104      |
 | FanFox                | 0d3653a8d9b747a381374f32e0a1641e | 24.11.2024 | 30050    |
+| Flame Comics          | fb34a56c83f54b19b57a9a92070fe899 | 29.11.2024 | 139      |
 | Genz Toons            | ef9347dbab424553b9909332c8739f32 | 12.11.2024 | 81       |
 | HentaiSlayer          | 9c9cde03be7d4e1d9b7241254e89f343 | 23.10.2024 | 3101     |
 | IMHentai              | 67e22e0c766c4c9c990e179350262b3c | 13.10.2024 | 1064634  |
 | Kewn Scans            | 393c5418b050491e80e8e893e8f79e4c | 12.11.2024 | 28       |
 | LelscanFR             | 358a61da48924114b62167af95772e03 | 23.10.2024 | 203      |
+| LikeManga             | c7aebe73845f43149bd5a8cbe84fd926 | 29.11.2024 | 32328    |
 | Lua Scans             | 1c6eb0c0fabc48df9313ce8f084311d2 | 12.11.2024 | 154      |
 | Magus Manga           | d81d220334924982b4bf32f0fa92164c | 12.11.2024 | 143      |
 | ManhuaManhwa          | 397614b7e4ec4a67b455f5b2d2cd94ab | 15.10.2024 | 7730     |
 | Manhwa18              | 794187d0e92e4933bf63812438d69017 | 11.11.2024 | 1623     |
 | Manhwa18Net           | 9b325c488f6f443281b39315d6fa72d0 | 11.11.2024 | 1627     |
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 24.11.2024 | 98303    |
-| MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 25.11.2024 | 44968    |
+| MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 29.11.2024 | 44972    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
 | MangaHereOnl          | 5000c9841e5c4cc69bdbca334ee5f440 | 11.10.2024 | 22232    |
 | MangaHubIo            | a4f873c854b248769284896607dfb4dd | 11.10.2024 | 59628    |
@@ -38,11 +40,15 @@ Otherwise the request may be declined until you update the list.
 | MangaReaderSite       | e470dc46f8eb4ac0aa1c9e401969c1f3 | 11.10.2024 | 5014     |
 | Necro Scans           | 6cdcae30ce834d868280d831202b5d3d | 12.11.2024 | 60       |
 | NHentai               | f8d26ca921af4876b7ba84bd7e06fe82 | 12.10.2024 | 508484   |
+| Olympus Scanlation    | 760d177b1f6d4763a08971c0c1b5572b | 29.11.2024 | 968      |
+| Philia Scans          | c280ce32f36843fbba73dcc891e979af | 29.11.2024 | 101      |
 | Pururin               | 18470a3b19034f3f91289c2b8b7d3ab3 | 21.11.2024 | 52199    |
 | Reaper Scans FR       | f8f3f54f2f3a47d999dbc75109287030 | 12.11.2024 | 84       |
 | Rezo Scans            | 4858ca8d788c4d229a1f996933aa8329 | 12.11.2024 | 32       |
 | Scylla Comics         | de31032e312a433c9df21a6e9be20872 | 23.10.2024 | 77       |
 | Starbound Scans       | f05e9899ef29499f91ce01857c92d0ea | 12.11.2024 | 58       |
-| Temple Scan           | df435a30cf8a44cb8e684e99d1b84b5d | 13.11.2024 | 122      |
+| StoneScape            | b78cfc8821a445719548a7636faf82cc | 29.11.2024 | 32       |
+| Temple Scan           | df435a30cf8a44cb8e684e99d1b84b5d | 29.11.2024 | 123      |
+| Thunder Scans         | d96acafbe22849349b9bb6a62a42aaf5 | 29.11.2024 | 95       |
 | WeebCentral           | abbde9b6468f45939e5603416d73ac47 | 24.11.2024 | 8468     |
 | Wicked Scans          | e385fdad588f40ba84fa77c76eb9d03e | 12.11.2024 | 27       |
