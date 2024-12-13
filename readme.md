@@ -22,9 +22,6 @@ Otherwise the request may be declined until you update the list.
 | LikeManga             | c7aebe73845f43149bd5a8cbe84fd926 | 29.11.2024 | 32328    |
 | Lua Scans             | 1c6eb0c0fabc48df9313ce8f084311d2 | 12.11.2024 | 154      |
 | Magus Manga           | d81d220334924982b4bf32f0fa92164c | 12.11.2024 | 143      |
-| ManhuaManhwa          | 397614b7e4ec4a67b455f5b2d2cd94ab | 15.10.2024 | 7730     |
-| Manhwa18              | 794187d0e92e4933bf63812438d69017 | 11.11.2024 | 1623     |
-| Manhwa18Net           | 9b325c488f6f443281b39315d6fa72d0 | 11.11.2024 | 1627     |
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 24.11.2024 | 98303    |
 | MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 29.11.2024 | 44972    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
@@ -38,6 +35,11 @@ Otherwise the request may be declined until you update the list.
 | MangaParkOrg          | 2784b193e1794dcdac1f68eb59e9ad0c | 10.10.2024 | 96954    |
 | MangaParkTo           | b14a022f3c4e4a72b47cb89345adf9c4 | 10.10.2024 | 96954    |
 | MangaReaderSite       | e470dc46f8eb4ac0aa1c9e401969c1f3 | 11.10.2024 | 5014     |
+| ManhuaManhwa          | 397614b7e4ec4a67b455f5b2d2cd94ab | 15.10.2024 | 7730     |
+| Manhwa18              | 794187d0e92e4933bf63812438d69017 | 11.11.2024 | 1623     |
+| Manhwa18Net           | 9b325c488f6f443281b39315d6fa72d0 | 11.11.2024 | 1627     |
+| ManyToonCom           | ac3452866dd843fda8b859afe8c8faab | 11.12.2024 | 104619   |
+| ManyToonOrg           | 4ae5a894bea542aeb847c774335e7ecd | 09.12.2024 | 1387     |
 | Necro Scans           | 6cdcae30ce834d868280d831202b5d3d | 12.11.2024 | 60       |
 | NHentai               | f8d26ca921af4876b7ba84bd7e06fe82 | 12.10.2024 | 508484   |
 | Olympus Scanlation    | 760d177b1f6d4763a08971c0c1b5572b | 29.11.2024 | 968      |
@@ -45,6 +47,7 @@ Otherwise the request may be declined until you update the list.
 | Pururin               | 18470a3b19034f3f91289c2b8b7d3ab3 | 21.11.2024 | 52199    |
 | Reaper Scans FR       | f8f3f54f2f3a47d999dbc75109287030 | 12.11.2024 | 84       |
 | Rezo Scans            | 4858ca8d788c4d229a1f996933aa8329 | 12.11.2024 | 32       |
+| RoliaScan             | eec17a12c6ef426da1b424a192e21edf | 13.12.2024 | 50       |
 | Scylla Comics         | de31032e312a433c9df21a6e9be20872 | 23.10.2024 | 77       |
 | Starbound Scans       | f05e9899ef29499f91ce01857c92d0ea | 12.11.2024 | 58       |
 | StoneScape            | b78cfc8821a445719548a7636faf82cc | 29.11.2024 | 32       |
