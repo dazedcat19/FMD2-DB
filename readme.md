@@ -15,6 +15,7 @@ Otherwise the request may be declined until you update the list.
 | FanFox                | 0d3653a8d9b747a381374f32e0a1641e | 24.11.2024 | 30050    |
 | Flame Comics          | fb34a56c83f54b19b57a9a92070fe899 | 29.11.2024 | 139      |
 | Genz Toons            | ef9347dbab424553b9909332c8739f32 | 12.11.2024 | 81       |
+| HentaiLib             | 17da8b4f514d418097801bfe9c88feab | 17.01.2025 | 27542    |
 | HentaiSlayer          | 9c9cde03be7d4e1d9b7241254e89f343 | 23.10.2024 | 3101     |
 | HolyManga             | a9a8bd394d63495686794a8d427bda00 | 13.01.2025 | 47713    |
 | IkigaiMangas          | ds42a85566244b7e836679491ce679e8 | 01.01.2025 | 3625     |
@@ -30,6 +31,7 @@ Otherwise the request may be declined until you update the list.
 | MangaHereOnl          | 5000c9841e5c4cc69bdbca334ee5f440 | 11.10.2024 | 22232    |
 | MangaHubIo            | a4f873c854b248769284896607dfb4dd | 11.10.2024 | 59628    |
 | MangaKakalotFun       | 69bf594c54c54a938da633e26291cd3e | 11.10.2024 | 40758    |
+| MangaLib              | df365d3d22f141ad8b9224cc1413ca02 | 17.01.2025 | 51087    |
 | MangaParkCom          | 273268fd7b1a42b38e50c010a630bfad | 10.10.2024 | 96954    |
 | MangaParkIo           | 885424a90b764a0894dad0d0a1c4e545 | 10.10.2024 | 96954    |
 | MangaParkMe           | 09d49c7760904bc2817dbc80757de44a | 10.10.2024 | 96954    |
