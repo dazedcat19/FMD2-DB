@@ -45,6 +45,7 @@ Otherwise the request may be declined until you update the list.
 | ManyToonCom           | ac3452866dd843fda8b859afe8c8faab | 11.12.2024 | 104619   |
 | ManyToonOrg           | 4ae5a894bea542aeb847c774335e7ecd | 09.12.2024 | 1387     |
 | Necro Scans           | 6cdcae30ce834d868280d831202b5d3d | 12.11.2024 | 60       |
+| NewToki               | 8b8a11bb9b0e4cd8b30c8577c762d19c | 18.01.2025 | 1310     |
 | NHentai               | f8d26ca921af4876b7ba84bd7e06fe82 | 12.10.2024 | 508484   |
 | Olympus Scanlation    | 760d177b1f6d4763a08971c0c1b5572b | 29.11.2024 | 968      |
 | Philia Scans          | c280ce32f36843fbba73dcc891e979af | 29.11.2024 | 101      |
