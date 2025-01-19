@@ -54,6 +54,7 @@ Otherwise the request may be declined until you update the list.
 | Rezo Scans            | 4858ca8d788c4d229a1f996933aa8329 | 12.11.2024 | 32       |
 | RoliaScan             | eec17a12c6ef426da1b424a192e21edf | 13.12.2024 | 50       |
 | Scylla Comics         | de31032e312a433c9df21a6e9be20872 | 23.10.2024 | 77       |
+| SlashLib              | f75dc361ebc44d55abef2d293efeb5e4 | 19.01.2025 | 20220    |
 | Starbound Scans       | f05e9899ef29499f91ce01857c92d0ea | 12.11.2024 | 58       |
 | StoneScape            | b78cfc8821a445719548a7636faf82cc | 29.11.2024 | 32       |
 | Temple Scan           | df435a30cf8a44cb8e684e99d1b84b5d | 29.11.2024 | 123      |
