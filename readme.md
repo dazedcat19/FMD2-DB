@@ -28,6 +28,7 @@ Otherwise the request may be declined until you update the list.
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 24.11.2024 | 98303    |
 | MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 29.11.2024 | 44972    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
+| MangaGun              | 42c61065259d4003940c1930f1ed7c26 | 19.01.2025 | 5353     |
 | MangaHereOnl          | 5000c9841e5c4cc69bdbca334ee5f440 | 11.10.2024 | 22232    |
 | MangaHubIo            | a4f873c854b248769284896607dfb4dd | 11.10.2024 | 59628    |
 | MangaKakalotFun       | 69bf594c54c54a938da633e26291cd3e | 11.10.2024 | 40758    |
@@ -50,6 +51,7 @@ Otherwise the request may be declined until you update the list.
 | Olympus Scanlation    | 760d177b1f6d4763a08971c0c1b5572b | 29.11.2024 | 968      |
 | Philia Scans          | c280ce32f36843fbba73dcc891e979af | 29.11.2024 | 101      |
 | Pururin               | 18470a3b19034f3f91289c2b8b7d3ab3 | 21.11.2024 | 52199    |
+| RawINU                | 30395726bc9a4546aa703ce9bf31eec0 | 19.01.2025 | 5183     |
 | Reaper Scans FR       | f8f3f54f2f3a47d999dbc75109287030 | 12.11.2024 | 84       |
 | Rezo Scans            | 4858ca8d788c4d229a1f996933aa8329 | 12.11.2024 | 32       |
 | RoliaScan             | eec17a12c6ef426da1b424a192e21edf | 13.12.2024 | 50       |
