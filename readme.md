@@ -27,7 +27,7 @@ Otherwise the request may be declined until you update the list.
 | Magus Manga           | d81d220334924982b4bf32f0fa92164c | 12.11.2024 | 143      |
 | Manga Sect            | 580c91aff7dc4a048ef3f6ac49160ee2 | 20.01.2025 | 251      |
 | Manga1000             | a42db88f4b564e12acbba33a944d180e | 20.01.2025 | 2623     |
-| MangaDex              | d07c9c2425764da8ba056505f57cf40c | 24.11.2024 | 98303    |
+| MangaDex              | d07c9c2425764da8ba056505f57cf40c | 02.02.2025 | 100080   |
 | MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 29.11.2024 | 44972    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
 | MangaGun              | 42c61065259d4003940c1930f1ed7c26 | 19.01.2025 | 5353     |
@@ -68,7 +68,7 @@ Otherwise the request may be declined until you update the list.
 | Thunder Scans         | d96acafbe22849349b9bb6a62a42aaf5 | 29.11.2024 | 95       |
 | ToonGod               | 24cd8bdc37ca4dd68c81826c68a0091f | 20.01.2025 | 1872     |
 | Toonkor               | 2a7d69a1e1d24f90851b4e2598cffdcd | 20.01.2025 | 13939    |
-| WeebCentral           | abbde9b6468f45939e5603416d73ac47 | 12.01.2025 | 8600     |
+| Weeb Central          | abbde9b6468f45939e5603416d73ac47 | 05.02.2025 | 8692     |
 | Wicked Scans          | e385fdad588f40ba84fa77c76eb9d03e | 12.11.2024 | 27       |
 | Đọc Truyện 5s         | d0991933f3b64cc3a8eb215725a8116a | 20.01.2025 | 1309     |
 | 古风漫画网             | c3d85523b4f0446f8bc3fc17e24ed03c | 04.01.2025 | 48996    |
