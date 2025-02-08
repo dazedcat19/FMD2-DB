@@ -20,6 +20,9 @@ Otherwise the request may be declined until you update the list.
 | HolyManga             | a9a8bd394d63495686794a8d427bda00 | 13.01.2025 | 47713    |
 | IkigaiMangas          | ds42a85566244b7e836679491ce679e8 | 01.01.2025 | 3625     |
 | IMHentai              | 67e22e0c766c4c9c990e179350262b3c | 13.10.2024 | 1064634  |
+| KaliScanCom           | 9b823543dc5e4adc988f1a50831bb297 | 08.02.2025 | 71406    |
+| KaliScanIo            | 694ff34a6ae4469fbdaecf8d3aebb6eb | 08.02.2025 | 71406    |
+| KaliScanMe            | d29ab69c096948aa83847fc164e4ebde | 08.02.2025 | 71407    |
 | Kewn Scans            | 393c5418b050491e80e8e893e8f79e4c | 12.11.2024 | 28       |
 | LelscanFR             | 358a61da48924114b62167af95772e03 | 23.10.2024 | 203      |
 | LikeManga             | c7aebe73845f43149bd5a8cbe84fd926 | 29.11.2024 | 32328    |
@@ -28,7 +31,7 @@ Otherwise the request may be declined until you update the list.
 | Manga Sect            | 580c91aff7dc4a048ef3f6ac49160ee2 | 20.01.2025 | 251      |
 | Manga1000             | a42db88f4b564e12acbba33a944d180e | 20.01.2025 | 2623     |
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 02.02.2025 | 100080   |
-| MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 29.11.2024 | 44972    |
+| MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 08.02.2025 | 46256    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
 | MangaGun              | 42c61065259d4003940c1930f1ed7c26 | 19.01.2025 | 5353     |
 | MangaHereOnl          | 5000c9841e5c4cc69bdbca334ee5f440 | 11.10.2024 | 22232    |
