@@ -48,6 +48,7 @@ Otherwise the request may be declined until you update the list.
 | MangaParkTo           | b14a022f3c4e4a72b47cb89345adf9c4 | 10.10.2024 | 96954    |
 | MangaRaw1001          | f5192ff4ca8a412fa7ae2bc18f76e130 | 20.01.2025 | 4954     |
 | MangaReaderSite       | e470dc46f8eb4ac0aa1c9e401969c1f3 | 11.10.2024 | 5014     |
+| Manhuafast            | ea0da11a1ec34dfeb65102d7768c897d | 13.02.2025 | 637      |
 | ManhuaManhwa          | 397614b7e4ec4a67b455f5b2d2cd94ab | 15.10.2024 | 7730     |
 | Manhwa18              | 794187d0e92e4933bf63812438d69017 | 11.11.2024 | 1623     |
 | Manhwa18Net           | 9b325c488f6f443281b39315d6fa72d0 | 11.11.2024 | 1627     |
