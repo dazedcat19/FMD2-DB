@@ -90,7 +90,7 @@ Otherwise the request may be declined until you update the list.
 | Thunder Scans         | d96acafbe22849349b9bb6a62a42aaf5 | 29.11.2024 | 95       |
 | ToonGod               | 24cd8bdc37ca4dd68c81826c68a0091f | 20.01.2025 | 1872     |
 | Toonkor               | 2a7d69a1e1d24f90851b4e2598cffdcd | 20.01.2025 | 13939    |
-| Weeb Central          | abbde9b6468f45939e5603416d73ac47 | 05.02.2025 | 8692     |
+| Weeb Central          | abbde9b6468f45939e5603416d73ac47 | 16.02.2025 | 8700     |
 | Wicked Scans          | e385fdad588f40ba84fa77c76eb9d03e | 12.11.2024 | 27       |
 | Đọc Truyện 5s         | d0991933f3b64cc3a8eb215725a8116a | 20.01.2025 | 1309     |
 | 古风漫画网             | c3d85523b4f0446f8bc3fc17e24ed03c | 04.01.2025 | 48996    |
