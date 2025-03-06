@@ -18,6 +18,7 @@ Otherwise the request may be declined until you update the list.
 | HentaiLib             | 17da8b4f514d418097801bfe9c88feab | 10.02.2025 | 27780    |
 | HentaiLib             | 17da8b4f514d418097801bfe9c88feab | 17.01.2025 | 27542    |
 | HentaiSlayer          | 9c9cde03be7d4e1d9b7241254e89f343 | 23.10.2024 | 3101     |
+| Hitomi.la             | 1972cec9c85b43f6b10b11920a7aafef | 08.02.2025 | 670615   |
 | HolyManga             | a9a8bd394d63495686794a8d427bda00 | 13.01.2025 | 47713    |
 | IkigaiMangas          | ds42a85566244b7e836679491ce679e8 | 01.01.2025 | 3625     |
 | IMHentai              | 67e22e0c766c4c9c990e179350262b3c | 13.10.2024 | 1064634  |
@@ -46,10 +47,13 @@ Otherwise the request may be declined until you update the list.
 | MangaParkNet          | 32b25f04931b414a803286a6f8cabd8d | 10.10.2024 | 96954    |
 | MangaParkOrg          | 2784b193e1794dcdac1f68eb59e9ad0c | 10.10.2024 | 96954    |
 | MangaParkTo           | b14a022f3c4e4a72b47cb89345adf9c4 | 10.10.2024 | 96954    |
+| MangaPlus             | f239e87c7a1248d29cdd2ea8a77df36c | 06.03.2025 | 614      |
 | MangaRaw1001          | f5192ff4ca8a412fa7ae2bc18f76e130 | 20.01.2025 | 4954     |
 | MangaReaderSite       | e470dc46f8eb4ac0aa1c9e401969c1f3 | 11.10.2024 | 5014     |
+| MangaToon             | e203bd33bcfe4d2b919e696fa5de6f63 | 06.03.2025 | 2403     |
 | Manhuafast            | ea0da11a1ec34dfeb65102d7768c897d | 13.02.2025 | 637      |
 | ManhuaManhwa          | 397614b7e4ec4a67b455f5b2d2cd94ab | 15.10.2024 | 7730     |
+| ManhuaPlusOrg         | a97df15cb1224eb0a40eb15dfe6fd299 | 06.03.2025 | 422      |
 | Manhwa18              | 794187d0e92e4933bf63812438d69017 | 11.11.2024 | 1623     |
 | Manhwa18Net           | 9b325c488f6f443281b39315d6fa72d0 | 11.11.2024 | 1627     |
 | ManyToonCom           | ac3452866dd843fda8b859afe8c8faab | 11.12.2024 | 104619   |
@@ -89,8 +93,10 @@ Otherwise the request may be declined until you update the list.
 | Temple Scan           | df435a30cf8a44cb8e684e99d1b84b5d | 29.11.2024 | 123      |
 | Thunder Scans         | d96acafbe22849349b9bb6a62a42aaf5 | 29.11.2024 | 95       |
 | ToonGod               | 24cd8bdc37ca4dd68c81826c68a0091f | 20.01.2025 | 1872     |
+| Toonily               | 1bc39e1bc5e64c12989c051fe3932d4d | 06.03.2025 | 1465     |
 | Toonkor               | 2a7d69a1e1d24f90851b4e2598cffdcd | 20.01.2025 | 13939    |
-| Weeb Central          | abbde9b6468f45939e5603416d73ac47 | 16.02.2025 | 8700     |
+| WebToons              | 18f636ec7fdf47fabe95d940ad0b548f | 06.03.2025 | 430      |
+| Weeb Central          | abbde9b6468f45939e5603416d73ac47 | 06.03.2025 | 8736     |
 | Wicked Scans          | e385fdad588f40ba84fa77c76eb9d03e | 12.11.2024 | 27       |
 | Đọc Truyện 5s         | d0991933f3b64cc3a8eb215725a8116a | 20.01.2025 | 1309     |
 | 古风漫画网             | c3d85523b4f0446f8bc3fc17e24ed03c | 04.01.2025 | 48996    |
