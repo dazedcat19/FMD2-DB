@@ -41,6 +41,7 @@ Otherwise the request may be declined until you update the list.
 | MangaKakalotFun       | 69bf594c54c54a938da633e26291cd3e | 11.10.2024 | 40758    |
 | MangaLib              | df365d3d22f141ad8b9224cc1413ca02 | 10.02.2025 | 51360    |
 | MangaLib              | df365d3d22f141ad8b9224cc1413ca02 | 17.01.2025 | 51087    |
+| MangaNato             | fa8bb4d1ceea4c8fa0e98c00755f95d4 | 16.03.2025 | 52685    |
 | MangaParkCom          | 273268fd7b1a42b38e50c010a630bfad | 10.10.2024 | 96954    |
 | MangaParkIo           | 885424a90b764a0894dad0d0a1c4e545 | 10.10.2024 | 96954    |
 | MangaParkMe           | 09d49c7760904bc2817dbc80757de44a | 10.10.2024 | 96954    |
