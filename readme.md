@@ -43,6 +43,7 @@ Otherwise the request may be declined until you update the list.
 | MangaLib              | df365d3d22f141ad8b9224cc1413ca02 | 10.02.2025 | 51360    |
 | MangaLib              | df365d3d22f141ad8b9224cc1413ca02 | 17.01.2025 | 51087    |
 | MangaNato             | fa8bb4d1ceea4c8fa0e98c00755f95d4 | 18.03.2025 | 52715    |
+| MangaOni              | 5aa6794ceeea4192a63de8296344da3c | 30.03.2025 | 5773     |
 | MangaParkCom          | 273268fd7b1a42b38e50c010a630bfad | 10.10.2024 | 96954    |
 | MangaParkIo           | 885424a90b764a0894dad0d0a1c4e545 | 10.10.2024 | 96954    |
 | MangaParkMe           | 09d49c7760904bc2817dbc80757de44a | 10.10.2024 | 96954    |
