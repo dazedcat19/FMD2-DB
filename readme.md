@@ -53,7 +53,7 @@ Otherwise the request may be declined until you update the list.
 | MangaRaw1001          | f5192ff4ca8a412fa7ae2bc18f76e130 | 20.01.2025 | 4954     |
 | MangaReaderSite       | e470dc46f8eb4ac0aa1c9e401969c1f3 | 11.10.2024 | 5014     |
 | MangaToon             | e203bd33bcfe4d2b919e696fa5de6f63 | 06.03.2025 | 2403     |
-| Manhuafast            | ea0da11a1ec34dfeb65102d7768c897d | 13.02.2025 | 637      |
+| Manhuafast            | ea0da11a1ec34dfeb65102d7768c897d | 30.03.2025 | 1743     |
 | ManhuaManhwa          | 397614b7e4ec4a67b455f5b2d2cd94ab | 15.10.2024 | 7730     |
 | ManhuaPlusOrg         | a97df15cb1224eb0a40eb15dfe6fd299 | 06.03.2025 | 422      |
 | Manhwa18              | 794187d0e92e4933bf63812438d69017 | 11.11.2024 | 1623     |
