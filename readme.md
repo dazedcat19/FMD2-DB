@@ -10,7 +10,7 @@ Otherwise the request may be declined until you update the list.
 | Arven Scans           | 472b381dbdf44438b90ee93e0caeccf9 | 12.11.2024 | 88       |
 | AsuraScans            | 7103ae6839ea46ec80cdfc2c4b37c803 | 21.11.2024 | 242      |
 | Azora Manga           | 27c2c6db9ce24942a89a28aa6c6ed35d | 26.10.2024 | 234      |
-| CrotPedia             | aba41d309bec4a1080afac803902bdbb | 10.10.2024 | 1649     |
+| CrotPedia             | aba41d309bec4a1080afac803902bdbb | 17.04.2025 | 2096     |
 | EZmanga               | fa1046d51d29499d8e8b812a80e97fe4 | 12.11.2024 | 104      |
 | FanFox                | 0d3653a8d9b747a381374f32e0a1641e | 24.11.2024 | 30050    |
 | Flame Comics          | fb34a56c83f54b19b57a9a92070fe899 | 29.11.2024 | 139      |
