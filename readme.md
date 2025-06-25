@@ -101,7 +101,7 @@ Otherwise the request may be declined until you update the list.
 | Toonily               | 1bc39e1bc5e64c12989c051fe3932d4d | 06.03.2025 | 1465     |
 | Toonkor               | 2a7d69a1e1d24f90851b4e2598cffdcd | 20.01.2025 | 13939    |
 | WebToons              | 18f636ec7fdf47fabe95d940ad0b548f | 06.03.2025 | 430      |
-| Weeb Central          | abbde9b6468f45939e5603416d73ac47 | 06.03.2025 | 8736     |
+| Weeb Central          | abbde9b6468f45939e5603416d73ac47 | 25.06.2025 | 9310     |
 | Wicked Scans          | e385fdad588f40ba84fa77c76eb9d03e | 12.11.2024 | 27       |
 | Đọc Truyện 5s         | d0991933f3b64cc3a8eb215725a8116a | 20.01.2025 | 1309     |
 | 古风漫画网             | c3d85523b4f0446f8bc3fc17e24ed03c | 04.01.2025 | 48996    |
