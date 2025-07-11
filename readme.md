@@ -18,7 +18,7 @@ Otherwise the request may be declined until you update the list.
 | HentaiLib             | 17da8b4f514d418097801bfe9c88feab | 10.02.2025 | 27780    |
 | HentaiLib             | 17da8b4f514d418097801bfe9c88feab | 17.01.2025 | 27542    |
 | HentaiSlayer          | 9c9cde03be7d4e1d9b7241254e89f343 | 23.10.2024 | 3101     |
-| Hitomi.la             | 1972cec9c85b43f6b10b11920a7aafef | 08.02.2025 | 670615   |
+| Hitomi                | 1972cec9c85b43f6b10b11920a7aafef | 11.07.2025 | 1034882  |
 | HolyManga             | a9a8bd394d63495686794a8d427bda00 | 13.01.2025 | 47713    |
 | IkigaiMangas          | ds42a85566244b7e836679491ce679e8 | 01.01.2025 | 3625     |
 | IMHentai              | 67e22e0c766c4c9c990e179350262b3c | 13.10.2024 | 1064634  |
@@ -101,7 +101,7 @@ Otherwise the request may be declined until you update the list.
 | Toonily               | 1bc39e1bc5e64c12989c051fe3932d4d | 06.03.2025 | 1465     |
 | Toonkor               | 2a7d69a1e1d24f90851b4e2598cffdcd | 20.01.2025 | 13939    |
 | WebToons              | 18f636ec7fdf47fabe95d940ad0b548f | 06.03.2025 | 430      |
-| Weeb Central          | abbde9b6468f45939e5603416d73ac47 | 25.06.2025 | 9310     |
+| Weeb Central          | abbde9b6468f45939e5603416d73ac47 | 25.06.2025 | 9380     |
 | Wicked Scans          | e385fdad588f40ba84fa77c76eb9d03e | 12.11.2024 | 27       |
 | Đọc Truyện 5s         | d0991933f3b64cc3a8eb215725a8116a | 20.01.2025 | 1309     |
 | 古风漫画网             | c3d85523b4f0446f8bc3fc17e24ed03c | 04.01.2025 | 48996    |
