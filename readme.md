@@ -10,6 +10,7 @@ Otherwise the request may be declined until you update the list.
 | Arven Scans           | 472b381dbdf44438b90ee93e0caeccf9 | 12.11.2024 | 88       |
 | AsuraScans            | 7103ae6839ea46ec80cdfc2c4b37c803 | 21.11.2024 | 242      |
 | Azora Manga           | 27c2c6db9ce24942a89a28aa6c6ed35d | 26.10.2024 | 234      |
+| CartoonPorn           | d2d4a20548a641e4b24ae4c49379ae1f | 22.07.2025 | 10393    |
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 17.04.2025 | 2096     |
 | EZmanga               | fa1046d51d29499d8e8b812a80e97fe4 | 12.11.2024 | 104      |
 | FanFox                | 0d3653a8d9b747a381374f32e0a1641e | 24.11.2024 | 30050    |
@@ -33,6 +34,7 @@ Otherwise the request may be declined until you update the list.
 | Magus Manga           | d81d220334924982b4bf32f0fa92164c | 12.11.2024 | 143      |
 | Manga Sect            | 580c91aff7dc4a048ef3f6ac49160ee2 | 20.01.2025 | 251      |
 | Manga1000             | a42db88f4b564e12acbba33a944d180e | 20.01.2025 | 2623     |
+| MangaCrab             | 73cfa250c661470c81428d99cdb8a140 | 22.07.2025 | 552      |
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 23.03.2025 | 102340   |
 | MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 06.03.2025 | 46735    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
@@ -55,12 +57,14 @@ Otherwise the request may be declined until you update the list.
 | MangaRaw1001          | f5192ff4ca8a412fa7ae2bc18f76e130 | 20.01.2025 | 4954     |
 | MangaReaderSite       | e470dc46f8eb4ac0aa1c9e401969c1f3 | 11.10.2024 | 5014     |
 | MangaToon             | e203bd33bcfe4d2b919e696fa5de6f63 | 06.03.2025 | 2403     |
-| Manhuafast            | ea0da11a1ec34dfeb65102d7768c897d | 30.03.2025 | 1743     |
+| Manhuafast            | ea0da11a1ec34dfeb65102d7768c897d | 22.07.2025 | 1778     |
 | ManhuaManhwa          | 397614b7e4ec4a67b455f5b2d2cd94ab | 15.10.2024 | 7730     |
+| ManhuaPlus            | a964861afd0f410cb5122df5f50d3e1a | 22.07.2025 | 137      |
 | ManhuaPlusOrg         | a97df15cb1224eb0a40eb15dfe6fd299 | 06.03.2025 | 422      |
 | Manhwa18              | 794187d0e92e4933bf63812438d69017 | 11.11.2024 | 1623     |
 | Manhwa18Net           | 9b325c488f6f443281b39315d6fa72d0 | 11.11.2024 | 1627     |
-| ManyToonCom           | ac3452866dd843fda8b859afe8c8faab | 11.12.2024 | 104619   |
+| ManhwaHentai          | d8e44dca037b4e159d320466adc06ca3 | 22.07.2025 | 20448    |
+| ManyToonCom           | ac3452866dd843fda8b859afe8c8faab | 22.07.2025 | 86016    |
 | ManyToonOrg           | 4ae5a894bea542aeb847c774335e7ecd | 09.12.2024 | 1387     |
 | Necro Scans           | 6cdcae30ce834d868280d831202b5d3d | 12.11.2024 | 60       |
 | NeuManga              | 43b1be881e5c4661b984b84ba8f208a6 | 19.07.2025 | 3211     |
@@ -100,7 +104,7 @@ Otherwise the request may be declined until you update the list.
 | Taadd                 | 05ebc869b7e0466690041551612fee1c | 10.02.2025 | 24203    |
 | Temple Scan           | df435a30cf8a44cb8e684e99d1b84b5d | 29.11.2024 | 123      |
 | Thunder Scans         | d96acafbe22849349b9bb6a62a42aaf5 | 29.11.2024 | 95       |
-| ToonGod               | 24cd8bdc37ca4dd68c81826c68a0091f | 20.01.2025 | 1872     |
+| ToonGod               | 24cd8bdc37ca4dd68c81826c68a0091f | 22.07.2025 | 1946     |
 | Toonily               | 1bc39e1bc5e64c12989c051fe3932d4d | 06.03.2025 | 1465     |
 | Toonkor               | 2a7d69a1e1d24f90851b4e2598cffdcd | 20.01.2025 | 13939    |
 | WebToons              | 18f636ec7fdf47fabe95d940ad0b548f | 06.03.2025 | 430      |
