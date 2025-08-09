@@ -21,7 +21,7 @@ Otherwise the request may be declined until you update the list.
 | DragonTranslation     | 44d1b00d78a54277b9a2af68c7980be2 | 09.08.2025 | 10252    |
 | EZmanga               | fa1046d51d29499d8e8b812a80e97fe4 | 12.11.2024 | 104      |
 | FanFox                | 0d3653a8d9b747a381374f32e0a1641e | 24.11.2024 | 30050    |
-| Flame Comics          | fb34a56c83f54b19b57a9a92070fe899 | 29.11.2024 | 139      |
+| Flame Comics          | fb34a56c83f54b19b57a9a92070fe899 | 10.08.2025 | 149      |
 | FreeComicOnline       | 33618723b5a74da3a28275258a47ad67 | 26.07.2025 | 4354     |
 | Fênix Scan            | 3dc5bebff80f4c1aa19298ddcf8cb504 | 09.08.2025 | 26       |
 | Genz Toons            | ef9347dbab424553b9909332c8739f32 | 12.11.2024 | 81       |
