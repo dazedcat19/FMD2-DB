@@ -27,7 +27,6 @@ Otherwise the request may be declined until you update the list.
 | Genz Toons            | ef9347dbab424553b9909332c8739f32 | 12.11.2024 | 81       |
 | Hades Comics          | 287f665620664e468d4e05f5d76f5a44 | 26.07.2025 | 1        |
 | HentaiLib             | 17da8b4f514d418097801bfe9c88feab | 10.02.2025 | 27780    |
-| HentaiLib             | 17da8b4f514d418097801bfe9c88feab | 17.01.2025 | 27542    |
 | HentaiRead            | dfdec22299bc4fc6adbad401eeca2211 | 26.07.2025 | 70279    |
 | HentaiSlayer          | 9c9cde03be7d4e1d9b7241254e89f343 | 23.10.2024 | 3101     |
 | Hitomi                | 1972cec9c85b43f6b10b11920a7aafef | 11.07.2025 | 1034882  |
@@ -63,7 +62,6 @@ Otherwise the request may be declined until you update the list.
 | MangaKakalot          | 74674292e13c496699b8c5e4efd4b583 | 18.03.2025 | 52349    |
 | MangaKakalotFun       | 69bf594c54c54a938da633e26291cd3e | 11.10.2024 | 40758    |
 | MangaLib              | df365d3d22f141ad8b9224cc1413ca02 | 10.02.2025 | 51360    |
-| MangaLib              | df365d3d22f141ad8b9224cc1413ca02 | 17.01.2025 | 51087    |
 | MangaNato             | fa8bb4d1ceea4c8fa0e98c00755f95d4 | 18.03.2025 | 52715    |
 | MangaOni              | 5aa6794ceeea4192a63de8296344da3c | 30.03.2025 | 5773     |
 | MangaParkCom          | 273268fd7b1a42b38e50c010a630bfad | 10.10.2024 | 96954    |
@@ -137,7 +135,6 @@ Otherwise the request may be declined until you update the list.
 | SetsuScans            | 5b0c4c616c7f4a759d40d5b6924e535b | 09.08.2025 | 23       |
 | Sky Manga             | ae84d6cc416a473d85cf9fa416305378 | 09.08.2025 | 2328     |
 | SlashLib              | f75dc361ebc44d55abef2d293efeb5e4 | 10.02.2025 | 20340    |
-| SlashLib              | f75dc361ebc44d55abef2d293efeb5e4 | 19.01.2025 | 20220    |
 | SpiderScans           | f0c566f6b9cd470fa580a5f238e1fda6 | 20.01.2025 | 15       |
 | Starbound Scans       | f05e9899ef29499f91ce01857c92d0ea | 12.11.2024 | 58       |
 | Stick Horse           | 29714bf99a7e4dafa8bd6f88ca0b7b5e | 26.07.2025 | 26       |
