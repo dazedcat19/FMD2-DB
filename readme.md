@@ -26,6 +26,7 @@ Otherwise the request may be declined until you update the list.
 | Fênix Scan            | 3dc5bebff80f4c1aa19298ddcf8cb504 | 09.08.2025 | 26       |
 | Genz Toons            | ef9347dbab424553b9909332c8739f32 | 12.11.2024 | 81       |
 | Hades Comics          | 287f665620664e468d4e05f5d76f5a44 | 26.07.2025 | 1        |
+| HDoujin Galleries     | 24234ac22aba44a5b94f6dfd95a2cf17 | 10.08.2025 | 92479    |
 | HentaiLib             | 17da8b4f514d418097801bfe9c88feab | 10.02.2025 | 27780    |
 | HentaiRead            | dfdec22299bc4fc6adbad401eeca2211 | 26.07.2025 | 70279    |
 | HentaiSlayer          | 9c9cde03be7d4e1d9b7241254e89f343 | 23.10.2024 | 3101     |
@@ -128,6 +129,7 @@ Otherwise the request may be declined until you update the list.
 | Rezo Scans            | 4858ca8d788c4d229a1f996933aa8329 | 12.11.2024 | 32       |
 | RoliaScan             | eec17a12c6ef426da1b424a192e21edf | 13.12.2024 | 50       |
 | S2Manga               | 80eb1cd9d38a4cb3ae4ea57f993847eb | 26.07.2025 | 5336     |
+| Schale Network        | 7eafb0a70e59463fb4957950bd7831bd | 10.08.2025 | 16432    |
 | Scylla Comics         | de31032e312a433c9df21a6e9be20872 | 23.10.2024 | 77       |
 | Seinagi Online        | 4c5e7c7582f6402b9bab2b019c8c4429 | 09.08.2025 | 177      |
 | Seinagi Online Adult  | 5c934d0556d44e0ba057eb7778a0cda4 | 09.08.2025 | 52       |
