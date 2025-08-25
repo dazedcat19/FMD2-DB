@@ -88,6 +88,7 @@ Otherwise the request may be declined until you update the list.
 | ManhwaHentai          | d8e44dca037b4e159d320466adc06ca3 | 22.07.2025 | 20448    |
 | ManhwaRaw             | 1d7090e3140f4957973a0e063c43f106 | 26.07.2025 | 3979     |
 | ManhwaRead            | deb0eed0b1eb4971bcec0eaac5cdf94b | 09.08.2025 | 2047     |
+| Manta                 | 596b042dc96d4f3886a544f91a648438 | 25.08.2025 | 926      |
 | ManyToonCom           | ac3452866dd843fda8b859afe8c8faab | 22.07.2025 | 86016    |
 | ManyToonOrg           | 4ae5a894bea542aeb847c774335e7ecd | 09.12.2024 | 1387     |
 | Menudo-Slide          | ba071f02443e40a3805d32c62169afb4 | 09.08.2025 | 100      |
