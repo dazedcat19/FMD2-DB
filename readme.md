@@ -14,6 +14,7 @@ Otherwise the request may be declined until you update the list.
 | Assorted Scans        | fc71889917094f61940ee7a9222a73bc | 09.08.2025 | 58       |
 | AsuraScans            | 7103ae6839ea46ec80cdfc2c4b37c803 | 21.11.2024 | 242      |
 | Azora Manga           | 27c2c6db9ce24942a89a28aa6c6ed35d | 26.10.2024 | 234      |
+| Bato.To               | 5257a0c426b94accb6dcee3101308314 | 20.09.2025 | 168188   |
 | CartoonPorn           | d2d4a20548a641e4b24ae4c49379ae1f | 22.07.2025 | 10393    |
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 17.04.2025 | 2096     |
 | Death Toll Scans      | 613368d384af4edf8036b869c85e2967 | 09.08.2025 | 74       |
