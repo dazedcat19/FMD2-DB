@@ -153,6 +153,7 @@ Otherwise the request may be declined until you update the list.
 | WebToons              | 18f636ec7fdf47fabe95d940ad0b548f | 06.03.2025 | 430      |
 | WebtoonXYZ            | 6d15a803c5504e91918a9d5f2b1351f8 | 26.07.2025 | 1895     |
 | Weeb Central          | abbde9b6468f45939e5603416d73ac47 | 25.06.2025 | 9380     |
+| WeebDex               | 5324f9766846418d9ebde2ce30d27678 | 01.11.2025 | 87191    |
 | WestManga             | 35e1b3ff5dbf428889d0f316c3d881e6 | 09.08.2025 | 5962     |
 | Wicked Scans          | e385fdad588f40ba84fa77c76eb9d03e | 12.11.2024 | 27       |
 | Đọc Truyện 5s         | d0991933f3b64cc3a8eb215725a8116a | 20.01.2025 | 1309     |
