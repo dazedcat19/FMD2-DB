@@ -143,6 +143,7 @@ Otherwise the request may be declined until you update the list.
 | Starbound Scans       | f05e9899ef29499f91ce01857c92d0ea | 12.11.2024 | 58       |
 | Stick Horse           | 29714bf99a7e4dafa8bd6f88ca0b7b5e | 26.07.2025 | 26       |
 | StoneScape            | b78cfc8821a445719548a7636faf82cc | 29.11.2024 | 32       |
+| SushiScan             | 6effe9b2092d46df89a5a1437beb836f | 29.12.2025 | 4345     |
 | Taadd                 | 05ebc869b7e0466690041551612fee1c | 10.02.2025 | 24203    |
 | Temple Scan           | df435a30cf8a44cb8e684e99d1b84b5d | 29.11.2024 | 123      |
 | Thunder Scans         | d96acafbe22849349b9bb6a62a42aaf5 | 29.11.2024 | 95       |
