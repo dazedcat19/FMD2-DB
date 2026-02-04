@@ -39,7 +39,7 @@ Otherwise the request may be declined until you update the list.
 | KaliScanIo            | 694ff34a6ae4469fbdaecf8d3aebb6eb | 08.02.2025 | 71406    |
 | KaliScanMe            | d29ab69c096948aa83847fc164e4ebde | 08.02.2025 | 71407    |
 | Kewn Scans            | 393c5418b050491e80e8e893e8f79e4c | 12.11.2024 | 28       |
-| KomikCast             | b8206e754d4541689c1d367f7e19fd64 | 09.08.2025 | 9314     |
+| KomikCast             | b8206e754d4541689c1d367f7e19fd64 | 04.02.2026 | 9653     |
 | KomikZoid             | f265c1fb832448d780adfda210266ada | 19.07.2025 | 5074     |
 | LectorManga           | d68542df8f5b47bbabcab226957598de | 09.08.2025 | 832      |
 | LelscanFR             | 358a61da48924114b62167af95772e03 | 23.10.2024 | 203      |
@@ -58,6 +58,7 @@ Otherwise the request may be declined until you update the list.
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 23.03.2025 | 102340   |
 | MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 06.03.2025 | 46735    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
+| MangaGo               | 77c3c3cd38444bd7bb4e5f63f2c5c93c | 04.02.2026 | 72706     |
 | MangaGun              | 42c61065259d4003940c1930f1ed7c26 | 19.01.2025 | 5353     |
 | MangaHereOnl          | 5000c9841e5c4cc69bdbca334ee5f440 | 11.10.2024 | 22232    |
 | MangaHubIo            | a4f873c854b248769284896607dfb4dd | 11.10.2024 | 59628    |
@@ -139,6 +140,7 @@ Otherwise the request may be declined until you update the list.
 | SetsuScans            | 5b0c4c616c7f4a759d40d5b6924e535b | 09.08.2025 | 23       |
 | Sky Manga             | ae84d6cc416a473d85cf9fa416305378 | 09.08.2025 | 2328     |
 | SlashLib              | f75dc361ebc44d55abef2d293efeb5e4 | 10.02.2025 | 20340    |
+| SoftKomik             | df01551e1739407a98669e37318842b0 | 04.02.2026 | 6963     |
 | SpiderScans           | f0c566f6b9cd470fa580a5f238e1fda6 | 20.01.2025 | 15       |
 | Starbound Scans       | f05e9899ef29499f91ce01857c92d0ea | 12.11.2024 | 58       |
 | Stick Horse           | 29714bf99a7e4dafa8bd6f88ca0b7b5e | 26.07.2025 | 26       |
