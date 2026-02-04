@@ -16,6 +16,7 @@ Otherwise the request may be declined until you update the list.
 | Azora Manga           | 27c2c6db9ce24942a89a28aa6c6ed35d | 26.10.2024 | 234      |
 | Bato.To               | 5257a0c426b94accb6dcee3101308314 | 20.09.2025 | 168188   |
 | CartoonPorn           | d2d4a20548a641e4b24ae4c49379ae1f | 22.07.2025 | 10393    |
+| Comicazen             | ab4a91f79df84a8583f6b806eccd1d87 | 04.02.2026 | 736      |
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 17.04.2025 | 2096     |
 | Death Toll Scans      | 613368d384af4edf8036b869c85e2967 | 09.08.2025 | 74       |
 | Dragon Tea            | 5e8a01ec43e24ed28372bab7f2c2c531 | 26.07.2025 | 527      |
@@ -58,7 +59,7 @@ Otherwise the request may be declined until you update the list.
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 23.03.2025 | 102340   |
 | MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 06.03.2025 | 46735    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
-| MangaGo               | 77c3c3cd38444bd7bb4e5f63f2c5c93c | 04.02.2026 | 72706     |
+| MangaGo               | 77c3c3cd38444bd7bb4e5f63f2c5c93c | 04.02.2026 | 72706    |
 | MangaGun              | 42c61065259d4003940c1930f1ed7c26 | 19.01.2025 | 5353     |
 | MangaHereOnl          | 5000c9841e5c4cc69bdbca334ee5f440 | 11.10.2024 | 22232    |
 | MangaHubIo            | a4f873c854b248769284896607dfb4dd | 11.10.2024 | 59628    |
@@ -93,6 +94,7 @@ Otherwise the request may be declined until you update the list.
 | Manta                 | 596b042dc96d4f3886a544f91a648438 | 25.08.2025 | 926      |
 | ManyToonCom           | ac3452866dd843fda8b859afe8c8faab | 22.07.2025 | 86016    |
 | ManyToonOrg           | 4ae5a894bea542aeb847c774335e7ecd | 09.12.2024 | 1387     |
+| Medusascans           | dcd099430f7d4db9b4d7f6935ad6eed9 | 04.02.2026 | 668      |
 | Menudo-Slide          | ba071f02443e40a3805d32c62169afb4 | 09.08.2025 | 100      |
 | MHScans               | a29b6757649f4683b72d2e669d9fbffc | 09.08.2025 | 374      |
 | Milftoon              | 53ea37e05bb6487e8bfe0dde6248fdc6 | 26.07.2025 | 201      |
