@@ -121,6 +121,7 @@ Otherwise the request may be declined until you update the list.
 | NovelCoolIT           | 2d89fd899e844557b6c779ef57080e02 | 10.02.2025 | 4370     |
 | NovelCoolRU           | 81965c5c3fc448648f32dcbe10804fd9 | 10.02.2025 | 9526     |
 | NovelMic              | 6d95277ed6864a16aeebf025ca667c3b | 26.07.2025 | 372      |
+| Nyx Scans             | 270d31f44ea34acd91bcac5af392d6dc | 10.02.2026 | 333      |
 | Olympus Scanlation    | 760d177b1f6d4763a08971c0c1b5572b | 29.11.2024 | 968      |
 | Philia Scans          | c280ce32f36843fbba73dcc891e979af | 29.11.2024 | 101      |
 | Porn Comic            | 8760050d777d432dab8e776e3f1a6474 | 09.08.2025 | 9859     |
