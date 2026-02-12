@@ -54,6 +54,7 @@ Otherwise the request may be declined until you update the list.
 | Manga Sect            | 580c91aff7dc4a048ef3f6ac49160ee2 | 20.01.2025 | 251      |
 | Manga1000             | a42db88f4b564e12acbba33a944d180e | 20.01.2025 | 2623     |
 | Manga1st              | 27433894c7594c97ad00ea083947c28c | 26.07.2025 | 3027     |
+| MangaBall             | 0b6ee312575e4f3583a89c62ce2ed18f | 12.02.2026 | 160523   |
 | MangaBin              | e62d472cc686400b91528c5b52ed0452 | 26.07.2025 | 55       |
 | MangaCrab             | 73cfa250c661470c81428d99cdb8a140 | 22.07.2025 | 552      |
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 23.03.2025 | 102340   |
