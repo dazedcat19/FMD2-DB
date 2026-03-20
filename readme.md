@@ -12,7 +12,7 @@ Otherwise the request may be declined until you update the list.
 | Arc-Relight           | fdd75beadb424b7b91bbbdbf4d077fa0 | 09.08.2025 | 13       |
 | Arven Scans           | 472b381dbdf44438b90ee93e0caeccf9 | 12.11.2024 | 88       |
 | Assorted Scans        | fc71889917094f61940ee7a9222a73bc | 09.08.2025 | 58       |
-| AsuraScans            | 7103ae6839ea46ec80cdfc2c4b37c803 | 21.11.2024 | 242      |
+| Asura Scans           | 7103ae6839ea46ec80cdfc2c4b37c803 | 21.03.2026 | 320      |
 | Azora Manga           | 27c2c6db9ce24942a89a28aa6c6ed35d | 26.10.2024 | 234      |
 | Bato.To               | 5257a0c426b94accb6dcee3101308314 | 20.09.2025 | 168188   |
 | CartoonPorn           | d2d4a20548a641e4b24ae4c49379ae1f | 22.07.2025 | 10393    |
