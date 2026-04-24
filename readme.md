@@ -42,6 +42,7 @@ Otherwise the request may be declined until you update the list.
 | KaliScanMe            | d29ab69c096948aa83847fc164e4ebde | 08.02.2025 | 71407    |
 | Kewn Scans            | 393c5418b050491e80e8e893e8f79e4c | 12.11.2024 | 28       |
 | KomikCast             | b8206e754d4541689c1d367f7e19fd64 | 04.02.2026 | 9653     |
+| Komiku                | 5af0f26f0d034fb2b42ee65d7e4188ab | 25.04.2026 | 7076     |
 | KomikZoid             | f265c1fb832448d780adfda210266ada | 19.07.2025 | 5074     |
 | LectorManga           | d68542df8f5b47bbabcab226957598de | 09.08.2025 | 832      |
 | LelscanFR             | 358a61da48924114b62167af95772e03 | 23.10.2024 | 203      |
