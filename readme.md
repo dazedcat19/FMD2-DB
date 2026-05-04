@@ -40,6 +40,7 @@ Otherwise the request may be declined until you update the list.
 | KaliScanCom           | 9b823543dc5e4adc988f1a50831bb297 | 08.02.2025 | 71406    |
 | KaliScanIo            | 694ff34a6ae4469fbdaecf8d3aebb6eb | 08.02.2025 | 71406    |
 | KaliScanMe            | d29ab69c096948aa83847fc164e4ebde | 08.02.2025 | 71407    |
+| KappaBeast            | 6ac92a5cdf034857a066c9e0145cef31 | 04.05.2026 | 16       |
 | Kewn Scans            | 393c5418b050491e80e8e893e8f79e4c | 12.11.2024 | 28       |
 | KomikCast             | b8206e754d4541689c1d367f7e19fd64 | 04.02.2026 | 9653     |
 | Komiku                | 5af0f26f0d034fb2b42ee65d7e4188ab | 25.04.2026 | 7076     |
