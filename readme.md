@@ -127,7 +127,7 @@ Otherwise the request may be declined until you update the list.
 | NovelMic              | 6d95277ed6864a16aeebf025ca667c3b | 26.07.2025 | 372      |
 | Nyx Scans             | 270d31f44ea34acd91bcac5af392d6dc | 10.02.2026 | 333      |
 | Olympus Scanlation    | 760d177b1f6d4763a08971c0c1b5572b | 29.11.2024 | 968      |
-| Philia Scans          | c280ce32f36843fbba73dcc891e979af | 29.11.2024 | 101      |
+| Philia Scans          | c280ce32f36843fbba73dcc891e979af | 16.05.2026 | 210      |
 | Porn Comic            | 8760050d777d432dab8e776e3f1a6474 | 09.08.2025 | 9859     |
 | Pururin               | 18470a3b19034f3f91289c2b8b7d3ab3 | 21.11.2024 | 52199    |
 | Pzykosis666HFansub    | 0f7a8fd035ed4598812ecb2c6da57569 | 09.08.2025 | 79       |
