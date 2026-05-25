@@ -15,6 +15,7 @@ Otherwise the request may be declined until you update the list.
 | Asura Scans           | 7103ae6839ea46ec80cdfc2c4b37c803 | 21.03.2026 | 320      |
 | Azora Manga           | 27c2c6db9ce24942a89a28aa6c6ed35d | 26.10.2024 | 234      |
 | Bato.To               | 5257a0c426b94accb6dcee3101308314 | 20.09.2025 | 168188   |
+| CapibaraTraductor     | 97dcd409f781467eb2da4a8634e5a1d9 | 25.05.2026 | 1258     |
 | CartoonPorn           | d2d4a20548a641e4b24ae4c49379ae1f | 22.07.2025 | 10393    |
 | Comicazen             | ab4a91f79df84a8583f6b806eccd1d87 | 04.02.2026 | 736      |
 | Comix                 | 88a001d7619244ef98d13ecd869b8e64 | 17.03.2026 | 71494    |
