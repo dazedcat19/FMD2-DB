@@ -17,7 +17,7 @@ Otherwise the request may be declined until you update the list.
 | Bato.To               | 5257a0c426b94accb6dcee3101308314 | 20.09.2025 | 168188   |
 | CapibaraTraductor     | 97dcd409f781467eb2da4a8634e5a1d9 | 25.05.2026 | 1258     |
 | CartoonPorn           | d2d4a20548a641e4b24ae4c49379ae1f | 22.07.2025 | 10393    |
-| Comicazen             | ab4a91f79df84a8583f6b806eccd1d87 | 04.02.2026 | 736      |
+| Comicaso              | ab4a91f79df84a8583f6b806eccd1d87 | 10.06.2026 | 2625     |
 | Comix                 | 88a001d7619244ef98d13ecd869b8e64 | 17.03.2026 | 71494    |
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 17.04.2025 | 2096     |
 | Death Toll Scans      | 613368d384af4edf8036b869c85e2967 | 09.08.2025 | 74       |
@@ -99,7 +99,6 @@ Otherwise the request may be declined until you update the list.
 | Manta                 | 596b042dc96d4f3886a544f91a648438 | 25.08.2025 | 926      |
 | ManyToonCom           | ac3452866dd843fda8b859afe8c8faab | 22.07.2025 | 86016    |
 | ManyToonOrg           | 4ae5a894bea542aeb847c774335e7ecd | 09.12.2024 | 1387     |
-| Medusascans           | dcd099430f7d4db9b4d7f6935ad6eed9 | 04.02.2026 | 668      |
 | Menudo-Slide          | ba071f02443e40a3805d32c62169afb4 | 09.08.2025 | 100      |
 | MHScans               | a29b6757649f4683b72d2e669d9fbffc | 09.08.2025 | 374      |
 | Milftoon              | 53ea37e05bb6487e8bfe0dde6248fdc6 | 26.07.2025 | 201      |
