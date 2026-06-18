@@ -17,7 +17,7 @@ Otherwise the request may be declined until you update the list.
 | Bato.To               | 5257a0c426b94accb6dcee3101308314 | 20.09.2025 | 168188   |
 | CapibaraTraductor     | 97dcd409f781467eb2da4a8634e5a1d9 | 25.05.2026 | 1258     |
 | CartoonPorn           | d2d4a20548a641e4b24ae4c49379ae1f | 22.07.2025 | 10393    |
-| Comicaso              | ab4a91f79df84a8583f6b806eccd1d87 | 10.06.2026 | 2625     |
+| Comicaso              | ab4a91f79df84a8583f6b806eccd1d87 | 18.06.2026 | 2712     |
 | Comix                 | 88a001d7619244ef98d13ecd869b8e64 | 17.03.2026 | 71494    |
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 17.04.2025 | 2096     |
 | Death Toll Scans      | 613368d384af4edf8036b869c85e2967 | 09.08.2025 | 74       |
@@ -47,6 +47,7 @@ Otherwise the request may be declined until you update the list.
 | Komiku                | 5af0f26f0d034fb2b42ee65d7e4188ab | 25.04.2026 | 7076     |
 | KomikZoid             | f265c1fb832448d780adfda210266ada | 19.07.2025 | 5074     |
 | LectorManga           | d68542df8f5b47bbabcab226957598de | 09.08.2025 | 832      |
+| LeerCapitulo          | c67d163c51b24bc498e777e2b0d810d2 | 18.06.2026 | 14888    |
 | LelscanFR             | 358a61da48924114b62167af95772e03 | 23.10.2024 | 203      |
 | LikeManga             | c7aebe73845f43149bd5a8cbe84fd926 | 29.11.2024 | 32328    |
 | Lily Manga            | 829fe500a3e64b8f9637a3d5ebdb4e11 | 09.08.2025 | 1143     |
@@ -127,6 +128,7 @@ Otherwise the request may be declined until you update the list.
 | NovelMic              | 6d95277ed6864a16aeebf025ca667c3b | 26.07.2025 | 372      |
 | Nyx Scans             | 270d31f44ea34acd91bcac5af392d6dc | 10.02.2026 | 333      |
 | Olympus Scanlation    | 760d177b1f6d4763a08971c0c1b5572b | 29.11.2024 | 968      |
+| OniSaga               | a791d82a6e584cd0909029560bbb4926 | 18.06.2026 | 75266    |
 | Philia Scans          | c280ce32f36843fbba73dcc891e979af | 16.05.2026 | 210      |
 | Porn Comic            | 8760050d777d432dab8e776e3f1a6474 | 09.08.2025 | 9859     |
 | Pururin               | 18470a3b19034f3f91289c2b8b7d3ab3 | 21.11.2024 | 52199    |
