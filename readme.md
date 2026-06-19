@@ -63,6 +63,7 @@ Otherwise the request may be declined until you update the list.
 | MangaBin              | e62d472cc686400b91528c5b52ed0452 | 26.07.2025 | 55       |
 | MangaCrab             | 73cfa250c661470c81428d99cdb8a140 | 14.02.2026 | 1092     |
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 23.03.2025 | 102340   |
+| MangaDotNet           | 64b2532a580f4ebd89850bdb2a567478 | 19.06.2026 | 29474    |
 | MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 06.03.2025 | 46735    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
 | MangaGo               | 77c3c3cd38444bd7bb4e5f63f2c5c93c | 04.02.2026 | 72706    |
