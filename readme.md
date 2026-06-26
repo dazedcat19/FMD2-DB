@@ -132,7 +132,7 @@ Otherwise the request may be declined until you update the list.
 | OniSaga               | a791d82a6e584cd0909029560bbb4926 | 18.06.2026 | 75266    |
 | Philia Scans          | c280ce32f36843fbba73dcc891e979af | 16.05.2026 | 210      |
 | Porn Comic            | 8760050d777d432dab8e776e3f1a6474 | 09.08.2025 | 9859     |
-| Pururin               | 18470a3b19034f3f91289c2b8b7d3ab3 | 21.11.2024 | 52199    |
+| Pururin               | 18470a3b19034f3f91289c2b8b7d3ab3 | 26.06.2026 | 52296    |
 | Pzykosis666HFansub    | 0f7a8fd035ed4598812ecb2c6da57569 | 09.08.2025 | 79       |
 | Raw1001               | 37fe4058be994eb08e83eeb0136d5ae9 | 20.01.2025 | 4952     |
 | RawDEX                | f164e6052faf4c8a896a8be3cef7cb61 | 26.07.2025 | 1021     |
