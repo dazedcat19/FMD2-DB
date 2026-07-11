@@ -34,6 +34,8 @@ Otherwise the request may be declined until you update the list.
 | HentaiLib             | 17da8b4f514d418097801bfe9c88feab | 10.02.2025 | 27780    |
 | HentaiRead            | dfdec22299bc4fc6adbad401eeca2211 | 26.07.2025 | 70279    |
 | HentaiSlayer          | 9c9cde03be7d4e1d9b7241254e89f343 | 23.10.2024 | 3101     |
+| HiperDEX              | 2b5f00cfbb124546b6c11a7e5ec9c403 | 11.07.2026 | 4209     |
+| HiperTOON             | ee478d1fefc3460f9d08ee657cbefe0c | 11.07.2026 | 2306     |
 | Hitomi                | 1972cec9c85b43f6b10b11920a7aafef | 11.07.2025 | 1034882  |
 | HolyManga             | a9a8bd394d63495686794a8d427bda00 | 13.01.2025 | 47713    |
 | IkigaiMangas          | ds42a85566244b7e836679491ce679e8 | 01.01.2025 | 3625     |
@@ -49,6 +51,7 @@ Otherwise the request may be declined until you update the list.
 | LectorManga           | d68542df8f5b47bbabcab226957598de | 09.08.2025 | 832      |
 | LeerCapitulo          | c67d163c51b24bc498e777e2b0d810d2 | 18.06.2026 | 14888    |
 | LelscanFR             | 358a61da48924114b62167af95772e03 | 23.10.2024 | 203      |
+| LerHentais            | 0b3d848de717473fbb71c87a89921ba5 | 11.07.2026 | 14383    |
 | LikeManga             | c7aebe73845f43149bd5a8cbe84fd926 | 29.11.2024 | 32328    |
 | Lily Manga            | 829fe500a3e64b8f9637a3d5ebdb4e11 | 09.08.2025 | 1143     |
 | LoliVault             | 218b722b1eb34f2aa3863f84538c5b08 | 09.08.2025 | 92       |
