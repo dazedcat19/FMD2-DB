@@ -112,7 +112,7 @@ Otherwise the request may be declined until you update the list.
 | NeuManga              | 43b1be881e5c4661b984b84ba8f208a6 | 19.07.2025 | 3211     |
 | NewToki               | 8b8a11bb9b0e4cd8b30c8577c762d19c | 18.01.2025 | 1310     |
 | NHentai               | f8d26ca921af4876b7ba84bd7e06fe82 | 12.10.2024 | 508484   |
-| NicoManga             | cc9b87e0e2fe4da5b6e8eb7500c3f8c2 | 16.03.2025 | 5338     |
+| NicoManga             | cc9b87e0e2fe4da5b6e8eb7500c3f8c2 | 25.07.2026 | 8060     |
 | Niji Translations     | 7afaf3a070bc4bd499255c3fd8dec1f3 | 26.07.2025 | 110      |
 | NineManga             | 68c51e4148ee471fa221cd2d05cb216a | 10.02.2025 | 76592    |
 | NineMangaBR           | 2c4c27a8c4a245a79f2057fa3ea5b858 | 10.02.2025 | 15276    |
