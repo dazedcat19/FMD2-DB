@@ -151,6 +151,7 @@ Otherwise the request may be declined until you update the list.
 | Seinagi Online Adult  | 5c934d0556d44e0ba057eb7778a0cda4 | 09.08.2025 | 52       |
 | SekteKomik            | 46dcfabe757140e7980ec34c65bdb30f | 19.07.2025 | 2836     |
 | SetsuScans            | 5b0c4c616c7f4a759d40d5b6924e535b | 09.08.2025 | 23       |
+| SilentQuill           | 94caa4da3f334418b27bc1ba7e127b57 | 15.09.2026 | 186      |
 | Sky Manga             | ae84d6cc416a473d85cf9fa416305378 | 09.08.2025 | 2328     |
 | SlashLib              | f75dc361ebc44d55abef2d293efeb5e4 | 10.02.2025 | 20340    |
 | SoftKomik             | df01551e1739407a98669e37318842b0 | 04.02.2026 | 6963     |
