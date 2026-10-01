@@ -112,13 +112,13 @@ Otherwise the request may be declined until you update the list.
 | NeuManga              | 43b1be881e5c4661b984b84ba8f208a6 | 19.07.2025 | 3211     |
 | NewToki               | 8b8a11bb9b0e4cd8b30c8577c762d19c | 18.01.2025 | 1310     |
 | NHentai               | f8d26ca921af4876b7ba84bd7e06fe82 | 12.10.2024 | 508484   |
-| NiAddBR               | 9a6c199307064d85b5da627b1ea99c87 | 27.09.2026 | 18258    |
+| NiAddBR               | 9a6c199307064d85b5da627b1ea99c87 | 01.10.2026 | 18261    |
 | NiAddDE               | b4443c9e561c48f0a24983aa36a950d4 | 27.09.2026 | 1175     |
-| NiAddEN               | 1230bae145b3452580164d00acc05e6f | 27.09.2026 | 81529    |
-| NiAddES               | 482deba9267346418abf3d381712e87a | 27.09.2026 | 71428    |
-| NiAddFR               | d4dd36e029784572a134f971c7970c0e | 27.09.2026 | 23841    |
-| NiAddIT               | 6f3f9352aa6a4751bfcccc695105c571 | 27.09.2026 | 4468     |
-| NiAddRU               | b90c9b43d9144fcbab291c19faaaf14e | 27.09.2026 | 38435    |
+| NiAddEN               | 1230bae145b3452580164d00acc05e6f | 01.10.2026 | 81587    |
+| NiAddES               | 482deba9267346418abf3d381712e87a | 01.10.2026 | 71462    |
+| NiAddFR               | d4dd36e029784572a134f971c7970c0e | 01.10.2026 | 23843    |
+| NiAddIT               | 6f3f9352aa6a4751bfcccc695105c571 | 01.10.2026 | 4469     |
+| NiAddRU               | b90c9b43d9144fcbab291c19faaaf14e | 01.10.2026 | 38471    |
 | NicoManga             | cc9b87e0e2fe4da5b6e8eb7500c3f8c2 | 25.07.2026 | 8060     |
 | Niji Translations     | 7afaf3a070bc4bd499255c3fd8dec1f3 | 26.07.2025 | 110      |
 | NineManga             | 68c51e4148ee471fa221cd2d05cb216a | 10.02.2025 | 76592    |
@@ -129,13 +129,13 @@ Otherwise the request may be declined until you update the list.
 | NineMangaIT           | 96feee416f274bb894b89e8641151bff | 10.02.2025 | 3628     |
 | NineMangaRU           | 472b36c3f1284d018b1f48c8bf2d46ad | 10.02.2025 | 31376    |
 | Nora no Fansub        | c3848692b2d9422b9ecc49c7c616fd3a | 09.08.2025 | 79       |
-| NovelCool             | c2151316f4e44b1ba3e4ddbcfea73278 | 10.02.2025 | 9559     |
-| NovelCoolBR           | b28132ff839645d998a4222db07cf9aa | 10.02.2025 | 9996     |
-| NovelCoolDE           | d45438695526446ea8c0cffd35403a3d | 10.02.2025 | 1122     |
-| NovelCoolES           | 424747b0135c4240a902eb9cfcb11db9 | 10.02.2025 | 10009    |
-| NovelCoolFR           | 1acdfb072dc744c694a481ef0f4da6c3 | 10.02.2025 | 8076     |
-| NovelCoolIT           | 2d89fd899e844557b6c779ef57080e02 | 10.02.2025 | 4370     |
-| NovelCoolRU           | 81965c5c3fc448648f32dcbe10804fd9 | 10.02.2025 | 9526     |
+| NovelCoolBR           | b28132ff839645d998a4222db07cf9aa | 01.10.2026 | 17141    |
+| NovelCoolDE           | d45438695526446ea8c0cffd35403a3d | 01.10.2026 | 1154     |
+| NovelCoolEN           | c2151316f4e44b1ba3e4ddbcfea73278 | 01.10.2026 | 51954    |
+| NovelCoolES           | 424747b0135c4240a902eb9cfcb11db9 | 01.10.2026 | 70571    |
+| NovelCoolFR           | 1acdfb072dc744c694a481ef0f4da6c3 | 01.10.2026 | 8622     |
+| NovelCoolIT           | 2d89fd899e844557b6c779ef57080e02 | 01.10.2026 | 4457     |
+| NovelCoolRU           | 81965c5c3fc448648f32dcbe10804fd9 | 01.10.2026 | 44552    |
 | NovelMic              | 6d95277ed6864a16aeebf025ca667c3b | 26.07.2025 | 372      |
 | Nyx Scans             | 270d31f44ea34acd91bcac5af392d6dc | 10.02.2026 | 333      |
 | Olympus Scanlation    | 760d177b1f6d4763a08971c0c1b5572b | 29.11.2024 | 968      |
