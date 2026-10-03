@@ -18,7 +18,7 @@ Otherwise the request may be declined until you update the list.
 | CapibaraTraductor     | 97dcd409f781467eb2da4a8634e5a1d9 | 25.05.2026 | 1258     |
 | CartoonPorn           | d2d4a20548a641e4b24ae4c49379ae1f | 22.07.2025 | 10393    |
 | Comicaso              | ab4a91f79df84a8583f6b806eccd1d87 | 18.06.2026 | 2712     |
-| Comix                 | 88a001d7619244ef98d13ecd869b8e64 | 17.03.2026 | 71494    |
+| Comix                 | 88a001d7619244ef98d13ecd869b8e64 | 03.10.2026 | 97329    |
 | CrotPedia             | aba41d309bec4a1080afac803902bdbb | 17.04.2025 | 2096     |
 | Death Toll Scans      | 613368d384af4edf8036b869c85e2967 | 09.08.2025 | 74       |
 | Dragon Tea            | 5e8a01ec43e24ed28372bab7f2c2c531 | 26.07.2025 | 527      |
