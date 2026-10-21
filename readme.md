@@ -67,7 +67,7 @@ Otherwise the request may be declined until you update the list.
 | MangaCrab             | 73cfa250c661470c81428d99cdb8a140 | 14.02.2026 | 1092     |
 | MangaDex              | d07c9c2425764da8ba056505f57cf40c | 23.03.2025 | 102340   |
 | MangaDotNet           | 64b2532a580f4ebd89850bdb2a567478 | 19.06.2026 | 29474    |
-| MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 06.03.2025 | 46735    |
+| MangaFire             | 23eb3a472201427e8824ecdd5223bad7 | 21.10.2026 | 77823    |
 | MangaFoxFun           | 70a69ea951fa4d78920a35f0d5bcb2d5 | 11.10.2024 | 25431    |
 | MangaGo               | 77c3c3cd38444bd7bb4e5f63f2c5c93c | 04.02.2026 | 72706    |
 | MangaGun              | 42c61065259d4003940c1930f1ed7c26 | 19.01.2025 | 5353     |
