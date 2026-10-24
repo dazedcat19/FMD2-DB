@@ -145,6 +145,7 @@ Otherwise the request may be declined until you update the list.
 | Porn Comic            | 8760050d777d432dab8e776e3f1a6474 | 09.08.2025 | 9859     |
 | Pururin               | 18470a3b19034f3f91289c2b8b7d3ab3 | 02.07.2026 | 53104    |
 | Pzykosis666HFansub    | 0f7a8fd035ed4598812ecb2c6da57569 | 09.08.2025 | 79       |
+| Raven Scans           | 70c8aa5554e84aa9addd7378599e1003 | 24.10.2026 | 12987    |
 | Raw1001               | 37fe4058be994eb08e83eeb0136d5ae9 | 20.01.2025 | 4952     |
 | RawDEX                | f164e6052faf4c8a896a8be3cef7cb61 | 26.07.2025 | 1021     |
 | RawINU                | 30395726bc9a4546aa703ce9bf31eec0 | 19.01.2025 | 5183     |
