@@ -31,6 +31,7 @@ Otherwise the request may be declined until you update the list.
 | Genz Toons            | ef9347dbab424553b9909332c8739f32 | 12.11.2024 | 81       |
 | Hades Comics          | 287f665620664e468d4e05f5d76f5a44 | 26.07.2025 | 1        |
 | HDoujin Galleries     | 24234ac22aba44a5b94f6dfd95a2cf17 | 10.08.2025 | 92479    |
+| Hentai2Read           | 053da85062184626a0a1ff6d57c3c955 | 24.10.2026 | 68554    |
 | HentaiLib             | 17da8b4f514d418097801bfe9c88feab | 10.02.2025 | 27780    |
 | HentaiRead            | dfdec22299bc4fc6adbad401eeca2211 | 26.07.2025 | 70279    |
 | HentaiSlayer          | 9c9cde03be7d4e1d9b7241254e89f343 | 23.10.2024 | 3101     |
